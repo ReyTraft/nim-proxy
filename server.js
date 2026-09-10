@@ -36,8 +36,8 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'moonshotai/kimi-k2.5',
-  'deepseak-v4-pro': 'deepseek-ai/deepseek-v4-pro',
-  'deepseak-v4-flash': 'deepseek-ai/deepseek-v4-flash',
+  'deepseak-v4-pro': 'deepseek-ai/deepseek-v4-pro-0813',
+  'deepseak-v4-flash': 'deepseek-ai/deepseek-v4-flash-0731',
   'kimi-k3': 'moonshotai/kimi-k3',
   'gemma-4-31b-it': 'google/gemma-4-31b-it'
 };
